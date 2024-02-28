@@ -53,7 +53,7 @@ Masukkan Nomor Indeks Perusahaan yang sesuai.\n''')
 def delete(table):
     read(table)
     while True:
-        index = fn.integer_validation('Silahkan masukkan Nomor Indeks Perusahaan yang akan diubah: ')
+        index = fn.integer_validation('Silahkan masukkan Nomor Indeks Perusahaan yang akan dihapus: ')
         if index > len(table):
             print('''Nomor tersebut tidak ada di database. 
 Masukkan Nomor Indeks Perusahaan yang sesuai.\n''')

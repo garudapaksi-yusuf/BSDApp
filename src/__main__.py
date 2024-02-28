@@ -35,7 +35,6 @@ def main():
             authorization()
             prog.update(database)
         elif choice == 4:
-            fn.clear_screen()
             authorization()
             prog.delete(database)
         elif choice == 5:
