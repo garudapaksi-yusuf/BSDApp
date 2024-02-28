@@ -2,7 +2,7 @@
 
 ## About
 
-BSDApp or BSD Subsidiary Database App is an application released on 2024 to manage database of subsidiaries under PT Bumi Serpong Damai Tbk; a company based in Indonesia, founded in 1984 and doing business in real estate / property sector.
+BSDApp or BSD Subsidiary Database App is an application released on 2024 to manage database of subsidiaries under PT Bumi Serpong Damai Tbk; a company based in Indonesia, founded in 1984 and doing business in real estate/property sector.
 
 The database itself is based on the updated PT Bumi Serpong Damai Tbk Annual Report (latest release is on Year 2022). Users of this app will be able to utilize the features provided here, including:
 
